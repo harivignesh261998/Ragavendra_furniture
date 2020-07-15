@@ -1,0 +1,40 @@
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\bin\Debug\FurtinureMart.exe.config
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\bin\Debug\FurtinureMart.exe
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\bin\Debug\FurtinureMart.pdb
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.csprojAssemblyReference.cache
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.frmAdminDashboard.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.Properties.Resources.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.csproj.GenerateResource.cache
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.csproj.CoreCompileInputs.cache
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.exe
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.pdb
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.frmUserDashboard.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmUsers.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmLogin.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmCategories.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmProducts.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmDeaCust.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmPurchaseandSales.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmTransaction.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmInventory.resources
+C:\Users\hariv\Desktop\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmSales.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.csprojAssemblyReference.cache
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.frmAdminDashboard.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmCategories.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmDeaCust.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmInventory.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmLogin.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmProducts.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmPurchaseandSales.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmSales.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmTransaction.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.frmUserDashboard.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.Properties.Resources.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.UI.frmUsers.resources
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.csproj.GenerateResource.cache
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.csproj.CoreCompileInputs.cache
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.exe
+E:\New folder\FurtinureMart\FurtinureMart\obj\Debug\FurtinureMart.pdb
+E:\New folder\FurtinureMart\FurtinureMart\bin\Debug\FurtinureMart.exe.config
+E:\New folder\FurtinureMart\FurtinureMart\bin\Debug\FurtinureMart.exe
+E:\New folder\FurtinureMart\FurtinureMart\bin\Debug\FurtinureMart.pdb
